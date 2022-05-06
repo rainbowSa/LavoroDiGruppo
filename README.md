@@ -10,9 +10,9 @@ Francesca, Miriam, Samantha, Francesco, Federico
 HTML, CSS, JavaScript
 
 # Ringraziamo: 
-Template by Html5up 
-Photo by Fatos Bytyqi on unsplash.com
-Icons by FontAwesome
+Template by Html5up <br>
+Photo by Fatos Bytyqi on unsplash.com<br>
+Icons by FontAwesome<br>
 Cookie Bar by CSSScript 
 =======
 
